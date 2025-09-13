@@ -1,6 +1,6 @@
 # 📜 Professional Certifications
 
-This repository serves as a **central hub** for all my professional certifications across **Cloud, AI, Data, and Technology domains**. 
+This repository serves as a **central hub** for all my professional certifications across **Cloud, Gen AI, Data, and Technology domains**. 
 
 ## 🎓 Certifications
 
